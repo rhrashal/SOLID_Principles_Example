@@ -1,6 +1,6 @@
 ## SOLID Principles in C#
 
-“Good software architecture is like a good friend: it supports you, listens to you, and helps you achieve your goals. The SOLID principles provide the blueprint for building these kinds of relationships between your code components.”
+Good software architecture is like a good friend: it supports you, listens to you, and helps you achieve your goals. The SOLID principles provide the blueprint for building these kinds of relationships between your code components.
 
 
 The SOLID principles are an acronym for five key design principles: 
